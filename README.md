@@ -5,10 +5,11 @@ This app was created at Purdue University with the aim of facilitate the task of
 
 ## Screenshots
 
-![alt](http://https://github.com/mmeendez8/SafeFlight/tree/master/img/1.png)
-![alt](http://https://github.com/mmeendez8/SafeFlight/tree/master/img/2.png)
-![alt](http://https://github.com/mmeendez8/SafeFlight/tree/master/img/3.png)
-![alt](http://https://github.com/mmeendez8/SafeFlight/tree/master/img/4.png)
+![alt](http://github.com/mmeendez8/SafeFlight/tree/master/img/1.png)
+![alt](http://github.com/mmeendez8/SafeFlight/tree/master/img/2.png)
+![alt](http://github.com/mmeendez8/SafeFlight/tree/master/img/3.png)
+![alt](http://github.com/mmeendez8/SafeFlight/tree/master/img/4.png)
+
 ## Author
 
 Miguel Mendez
